@@ -1,9 +1,10 @@
+
 function setup() {
   createCanvas(640, 480);
 
 
 
-  background(100, 100, 51);
+  background(255, 176, 176);
   
 
   stroke(255);
